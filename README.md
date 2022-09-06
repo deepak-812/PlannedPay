@@ -4,9 +4,9 @@ https://user-images.githubusercontent.com/104820894/171664007-25b260a4-ed5a-40d5
 
 ## ScreenShots
 <p float="left">
-<img src="https://user-images.githubusercontent.com/104820894/188601639-a658105e-f380-45cd-a5a9-e30ac240e893.jpg" width="245">
-<img src="https://user-images.githubusercontent.com/104820894/188606683-3f2bd860-5f38-460b-ba94-bfb859bcc496.jpg" width="245">
-<img src="https://user-images.githubusercontent.com/104820894/188604147-22a7ef42-069d-4a84-b1f8-812f4d0b63f2.jpg" width="245">
+<img src="https://user-images.githubusercontent.com/104820894/188601639-a658105e-f380-45cd-a5a9-e30ac240e893.jpg" width="250">
+<img src="https://user-images.githubusercontent.com/104820894/188606683-3f2bd860-5f38-460b-ba94-bfb859bcc496.jpg" width="250">
+<img src="https://user-images.githubusercontent.com/104820894/188604147-22a7ef42-069d-4a84-b1f8-812f4d0b63f2.jpg" width="250">
 </p>
 
 
