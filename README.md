@@ -15,7 +15,7 @@ https://user-images.githubusercontent.com/104820894/171664007-25b260a4-ed5a-40d5
 - Python
 - Django
 - Mysql
-- git
+- Git
 
 ## How to use
 
