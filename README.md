@@ -1,4 +1,4 @@
-<h2 align="center"> PlannedPay - Bank Application</h2>
+<h1 align="center"> PlannedPay - Bank Application</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/build-passing-brightgreen">
   <img src="https://img.shields.io/badge/FrameWork-Django-informational">
