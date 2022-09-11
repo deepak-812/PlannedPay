@@ -19,26 +19,31 @@ https://user-images.githubusercontent.com/104820894/171664007-25b260a4-ed5a-40d5
 
 ## How to use
 
-<h4>NOTE: (ignore "(double quotes) in all command they are used to differentiate between commands and text)</h4>
-
 Clone the repo into your dir
 
-- to clone open Terminal/Cmd and type "git clone https://github.com/deepak-812/PlannedPay.git"
-
-- open mysql and type "create database dbbank";
+- to clone open Terminal/Cmd and type 
+```bash
+git clone https://github.com/deepak-812/PlannedPay.git
+```
+- open mysql and type ```bash 
+create database dbbank. ```
 
 - now go to settings in bank folder and set your mysql password section
 
 - open bank folder(which you extracted now)
 
-- type cmd in address bar (to open cmd/terminal in bank folder) and type "python manage.py makemigrations" Please ignore "(Quotes)
+- type cmd in address bar (to open cmd/terminal in bank folder) and type ```bash 
+python manage.py makemigrations```
 
-- next cmd in "python manage.py migrate"
+- next cmd in ```bash 
+python manage.py migrate```
 
-- open mysql and type in it "use dbbank";
+- open mysql and type in it ```bash 
+use dbbank;```
 
-- "insert into bankapp_cust values(101 , 'bnkadmin' , 'Deepak' , 10000 , '' , '2022-03-21' , 1)"
-
+```bash
+insert into bankapp_cust values(101 , 'bnkadmin' , 'Deepak' , 10000 , '' , '2022-03-21' , 1)"
+```
 - Leave Empty email field for admin
 
 - now open cmd in your extrated_location/bank
@@ -51,7 +56,10 @@ Clone the repo into your dir
 
 - address bar type cmd on address bar to open cmd/terminal in present location(bank location)
 
-- type in cmd/terminal "python manage.py runserver"
+- type in cmd/terminal 
+```bash 
+python manage.py runserver
+```
 
 - Admin login id is '101' and password is 'bnkadmin'
 
