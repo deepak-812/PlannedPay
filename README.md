@@ -1,3 +1,15 @@
+<h2 align="center"> PlannedPay - Bank Application</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/build-passing-brightgreen">
+  <img src="https://img.shields.io/badge/Python-Django-informational">
+  <img src="https://img.shields.io/badge/python-3.11-informational">
+  <img href="https://img.shields.io/badge/Mainter-Deepak%20Sharma-brightgreen">
+  <img src="https://img.shields.io/badge/maintainer-Deepak Sharma-information">
+  <img src="https://img.shields.io/badge/os-linux-brightgreen">
+  <img src="https://img.shields.io/badge/DBMS-MySQL-brightgreen">
+</p>
+
+
 ## Project Overview
 
 https://user-images.githubusercontent.com/104820894/171664007-25b260a4-ed5a-40d5-a257-f3de722479dd.mp4
