@@ -32,14 +32,20 @@ create database dbbank. ```
 
 - open bank folder(which you extracted now)
 
-- type cmd in address bar (to open cmd/terminal in bank folder) and type ```bash 
-python manage.py makemigrations```
+- type cmd in address bar (to open cmd/terminal in bank folder) and type 
+```bash 
+python manage.py makemigrations
+```
 
-- next cmd in ```bash 
-python manage.py migrate```
+- next cmd in 
+```bash 
+python manage.py migrate
+```
 
-- open mysql and type in it ```bash 
-use dbbank;```
+- open mysql and type in it 
+```bash 
+use dbbank;
+```
 
 ```bash
 insert into bankapp_cust values(101 , 'bnkadmin' , 'Deepak' , 10000 , '' , '2022-03-21' , 1)"
