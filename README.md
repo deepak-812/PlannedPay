@@ -1,12 +1,13 @@
 <h2 align="center"> PlannedPay - Bank Application</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/build-passing-brightgreen">
-  <img src="https://img.shields.io/badge/Python-Django-informational">
+  <img src="https://img.shields.io/badge/FrameWork-Django-informational">
   <img src="https://img.shields.io/badge/python-3.11-informational">
   <img href="https://img.shields.io/badge/Mainter-Deepak%20Sharma-brightgreen">
   <img src="https://img.shields.io/badge/maintainer-Deepak Sharma-information">
   <img src="https://img.shields.io/badge/os-linux-brightgreen">
   <img src="https://img.shields.io/badge/DBMS-MySQL-brightgreen">
+  <img src="https://img.shields.io/badge/downloads-lightgrey">
 </p>
 
 
