@@ -25,8 +25,10 @@ Clone the repo into your dir
 ```bash
 git clone https://github.com/deepak-812/PlannedPay.git
 ```
-- open mysql and type ```bash 
-create database dbbank. ```
+- open mysql and type 
+```bash 
+create database dbbank;
+```
 
 - now go to settings in bank folder and set your mysql password section
 
@@ -35,20 +37,13 @@ create database dbbank. ```
 - type cmd in address bar (to open cmd/terminal in bank folder) and type 
 ```bash 
 python manage.py makemigrations
-```
-
-- next cmd in 
-```bash 
 python manage.py migrate
 ```
 
 - open mysql and type in it 
 ```bash 
 use dbbank;
-```
-
-```bash
-insert into bankapp_cust values(101 , 'bnkadmin' , 'Deepak' , 10000 , '' , '2022-03-21' , 1)"
+insert into bankapp_cust values(101 , 'bnkadmin' , 'Deepak' , 10000 , '' , '2022-03-21' , 1)";
 ```
 - Leave Empty email field for admin
 
