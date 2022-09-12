@@ -6,7 +6,7 @@
   <img href="https://img.shields.io/badge/Mainter-Deepak%20Sharma-brightgreen">
   <img src="https://img.shields.io/badge/maintainer-Deepak Sharma-information">
   <img src="https://img.shields.io/badge/os-linux-brightgreen">
-  <img src="https://img.shields.io/badge/DBMS-MySQL-brightgreen">
+  <img src="https://img.shields.io/badge/Database-MySQL-brightgreen">
   <img src="https://img.shields.io/badge/downloads-79-informational">
 </p>
 
