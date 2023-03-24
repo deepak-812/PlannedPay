@@ -75,7 +75,6 @@ insert into bankapp_cust values(101 , 'bnkadmin' , 'Deepak' , 10000 , '' , '2022
 python manage.py runserver
 ```
 
-
 - Admin login id is '101' and password is 'bnkadmin'
 
-## Thanks for Visit !!
+## Thanks for Visit !!!
